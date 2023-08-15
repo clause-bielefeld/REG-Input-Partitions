@@ -1,0 +1,6 @@
+data/results/*.pkl
+data/results/*.json
+data/results/analysis_outputs/*.json
+data/results/plots/*.png
+.vscode
+*__pycache__*
